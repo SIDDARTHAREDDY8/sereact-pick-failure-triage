@@ -1,0 +1,18 @@
+ROUTE: X (public reply/DM) to @HistoriCode97 - Damien LaRocque, Robotics Engineer
+at Sereact. He posted Sereact's Boston roles (Core Robotics Engineer, Robotics
+Application Engineer) on ROS Discourse himself on 2026-08-17
+(https://discourse.ros.org/t/were-hiring-sereact-ai-robotics-stuttgart-germany-boston-usa/57455).
+Handle provenance: his self-owned GitHub profile (https://github.com/IamPhytan,
+bio "Robotics Engineer bei @sereact"). X page itself was not fetchable from the
+build environment, so verify the handle before sending.
+DO NOT SEND - parent agent / user must approve and send.
+
+Founder/CTO route: UNVERIFIABLE. Ralf Gulde (CEO) and Marc Tuscher (CTO) have
+no verified email or social profile on sereact.ai or any official company page.
+Third-party scraper emails (e.g. ContactOut) were not used - never guessed.
+
+---
+
+Damien, your Series B post says failures get prioritized by novelty and uncertainty. I built a tiny triage harness that does that on pick telemetry: https://github.com/SIDDARTHAREDDY8/sereact-pick-failure-triage AirTrek perception engineer, keen on the Boston Core Robotics role. worth a look?
+
+(char count: 230 text + 23 link = 253, within 280)
